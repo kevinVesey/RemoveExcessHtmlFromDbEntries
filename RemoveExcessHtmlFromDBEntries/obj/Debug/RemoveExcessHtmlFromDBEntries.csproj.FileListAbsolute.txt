@@ -1,0 +1,35 @@
+c:\users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\bin\Debug\RemoveExcessHtmlFromDBEntries.exe.config
+c:\users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\bin\Debug\RemoveExcessHtmlFromDBEntries.exe
+c:\users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\bin\Debug\RemoveExcessHtmlFromDBEntries.pdb
+c:\users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries.csprojResolveAssemblyReference.cache
+c:\users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\MainWindow.g.cs
+c:\users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\App.g.cs
+c:\users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries_MarkupCompile.cache
+c:\users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries_MarkupCompile.lref
+c:\users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\MainWindow.baml
+c:\users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries.g.resources
+c:\users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries.Properties.Resources.resources
+c:\users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries.csproj.GenerateResource.Cache
+c:\users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries.exe
+c:\users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries.pdb
+C:\Users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kvesey\documents\visual studio 2017\Projects\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\bin\Debug\RemoveExcessHtmlFromDBEntries.exe.config
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\bin\Debug\RemoveExcessHtmlFromDBEntries.exe
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\bin\Debug\RemoveExcessHtmlFromDBEntries.pdb
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\MainWindow.g.cs
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\App.g.cs
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries_MarkupCompile.cache
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries_MarkupCompile.lref
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\MainWindow.baml
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries.g.resources
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries.Properties.Resources.resources
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries.csproj.GenerateResource.Cache
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries.exe
+C:\Users\kevin\Desktop\bscHonsY4\RemoveExcessHtmlFromDBEntries\RemoveExcessHtmlFromDBEntries\obj\Debug\RemoveExcessHtmlFromDBEntries.pdb
